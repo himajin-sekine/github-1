@@ -1,0 +1,19 @@
+#about{
+  width:960px;
+  background:#fff;
+}
+#about .content{
+  border:1px solid #222;
+  border-radius:4px;
+  margin:30px;
+}
+#about .content h1{
+  font-size:30px;
+  font-weight:bold;
+  color:#222;
+}
+#about .content p{
+  font-size:18px;
+  color:#ddd;
+  margin-bottom:20px;
+}
